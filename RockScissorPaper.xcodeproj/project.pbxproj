@@ -14,6 +14,7 @@
 		57226ED61E88C86500C2BB22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57226ED41E88C86500C2BB22 /* LaunchScreen.storyboard */; };
 		57226EE11E88C86500C2BB22 /* RockScissorPaperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57226EE01E88C86500C2BB22 /* RockScissorPaperTests.swift */; };
 		57226EEC1E88C86500C2BB22 /* RockScissorPaperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57226EEB1E88C86500C2BB22 /* RockScissorPaperUITests.swift */; };
+		57226EFC1E88E17000C2BB22 /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57226EFB1E88E17000C2BB22 /* webViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		57226EE71E88C86500C2BB22 /* RockScissorPaperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RockScissorPaperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57226EEB1E88C86500C2BB22 /* RockScissorPaperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockScissorPaperUITests.swift; sourceTree = "<group>"; };
 		57226EED1E88C86500C2BB22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57226EFB1E88E17000C2BB22 /* webViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				57226ECB1E88C86500C2BB22 /* AppDelegate.swift */,
 				57226ECD1E88C86500C2BB22 /* ViewController.swift */,
 				57226ECF1E88C86500C2BB22 /* Main.storyboard */,
+				57226EFB1E88E17000C2BB22 /* webViewController.swift */,
 				57226ED21E88C86500C2BB22 /* Assets.xcassets */,
 				57226ED41E88C86500C2BB22 /* LaunchScreen.storyboard */,
 				57226ED71E88C86500C2BB22 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				57226ECE1E88C86500C2BB22 /* ViewController.swift in Sources */,
 				57226ECC1E88C86500C2BB22 /* AppDelegate.swift in Sources */,
+				57226EFC1E88E17000C2BB22 /* webViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
